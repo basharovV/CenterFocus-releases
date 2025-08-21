@@ -11,7 +11,7 @@
             <sparkle:shortVersionString>0.1.1</sparkle:shortVersionString>
             <sparkle:releaseNotesLink>https://github.com/basharovv/CenterFocus-Releases/releases/tag/0.1.1</sparkle:releaseNotesLink>
             <pubDate>Thu, 21 Aug 2025 00:25:11 +0000</pubDate>
-            <enclosure url="https://github.com/basharovv/CenterFocus-Releases/releases/download/0.1.1/CenterFocus.dmg" sparkle:edSignature="EBC3GoNbpax+9UXaBs/QuO6twhdNRKk2W/UDv6MsyJr8f1Fi4lWedcdf+EdvwYZUdukiqYql7i7h4pRNdozqDA==" length="6986367" type="application/octet-stream"/>
+            <enclosure url="https://github.com/basharovV/CenterFocus-releases/releases/download/0.1.1/CenterFocus.0.1.1.dmg" sparkle:edSignature="EBC3GoNbpax+9UXaBs/QuO6twhdNRKk2W/UDv6MsyJr8f1Fi4lWedcdf+EdvwYZUdukiqYql7i7h4pRNdozqDA==" length="6986367" type="application/octet-stream"/>
         </item>
     </channel>
 </rss>
