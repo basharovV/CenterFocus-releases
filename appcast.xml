@@ -9,7 +9,7 @@
       <title>0.1.2</title>
       <sparkle:version>0.1.2</sparkle:version>
       <sparkle:shortVersionString>0.1.2</sparkle:shortVersionString>
-      <sparkle:releaseNotesLink>https://github.com/basharovv/CenterFocus-Releases/releases/tag/0.1.2</sparkle:releaseNotesLink>
+      <sparkle:releaseNotesLink>https://basharovv.github.io/CenterFocus-releases/release-notes/0.1.2.html</sparkle:releaseNotesLink>
       <enclosure url="https://github.com/basharovv/CenterFocus-Releases/releases/download/0.1.2/CenterFocus.dmg" sparkle:edSignature="JqtYjuHwqX72yR31TVcvxjqqlTR6IvYc/vn2gMfTrG9397oQFnChS30zd6BM/UOWJbgnUF8awagIvb9R0Sm8Bw==" length="6985740" type="application/octet-stream"/>
     </item>
   </channel>
