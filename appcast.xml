@@ -1,17 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
-    <channel>
-        <title>CenterFocus Updates</title>
-        <link>https://github.com/basharovv/CenterFocus-Releases/releases/download/0.1.1/CenterFocus.dmg</link>
-        <description>App updates</description>
-        <language>en</language>
-        <item>
-            <title>0.1.1</title>
-            <sparkle:version>0.1.1</sparkle:version>
-            <sparkle:shortVersionString>0.1.1</sparkle:shortVersionString>
-            <sparkle:releaseNotesLink>https://github.com/basharovv/CenterFocus-Releases/releases/tag/0.1.1</sparkle:releaseNotesLink>
-            <pubDate>Thu, 21 Aug 2025 00:25:11 +0000</pubDate>
-            <enclosure url="https://github.com/basharovV/CenterFocus-releases/releases/download/0.1.1/CenterFocus.0.1.1.dmg" sparkle:edSignature="EBC3GoNbpax+9UXaBs/QuO6twhdNRKk2W/UDv6MsyJr8f1Fi4lWedcdf+EdvwYZUdukiqYql7i7h4pRNdozqDA==" length="6986367" type="application/octet-stream"/>
-        </item>
-    </channel>
+  <channel>
+    <title>CenterFocus Updates</title>
+    <link>https://github.com/basharovv/CenterFocus-Releases/releases/download/0.1.2/CenterFocus.dmg</link>
+    <description>App updates</description>
+    <language>en</language>
+    <item>
+      <title>0.1.2</title>
+      <sparkle:version>0.1.2</sparkle:version>
+      <sparkle:shortVersionString>0.1.2</sparkle:shortVersionString>
+      <sparkle:releaseNotesLink>https://github.com/basharovv/CenterFocus-Releases/releases/tag/0.1.2</sparkle:releaseNotesLink>
+      <enclosure url="https://github.com/basharovv/CenterFocus-Releases/releases/download/0.1.2/CenterFocus.dmg" sparkle:edSignature="JqtYjuHwqX72yR31TVcvxjqqlTR6IvYc/vn2gMfTrG9397oQFnChS30zd6BM/UOWJbgnUF8awagIvb9R0Sm8Bw==" length="6985740" type="application/octet-stream"/>
+    </item>
+  </channel>
 </rss>
