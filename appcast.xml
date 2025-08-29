@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
   <channel>
     <title>CenterFocus Updates</title>
-    <link>https://github.com/basharovv/CenterFocus-Releases/releases/download/0.1.4/CenterFocus 0.1.4.dmg</link>
+    <link>https://github.com/basharovv/CenterFocus-Releases/releases/download/0.1.4/CenterFocus.0.1.4.dmg</link>
     <description>App updates</description>
     <language>en</language>
     <item>
       <title>0.1.4</title>
       <sparkle:version>0.1.4</sparkle:version>
       <sparkle:releaseNotesLink>https://basharovv.github.io/CenterFocus-releases/release-notes/0.1.4.html</sparkle:releaseNotesLink>
-      <enclosure url="https://github.com/basharovv/CenterFocus-Releases/releases/download/0.1.4/CenterFocus 0.1.4.dmg" sparkle:edSignature="EWX8TYIhUWAQDnhPg8nt5ytm4oFPoi86lKMVDDug5fVh61rdDLH7pIZeyyLH/fHF4mNN2FYa6LG8sp5zib3KAw==" length="8511862" type="application/octet-stream"/>
+      <enclosure url="https://github.com/basharovv/CenterFocus-Releases/releases/download/0.1.4/CenterFocus.0.1.4.dmg" sparkle:edSignature="EWX8TYIhUWAQDnhPg8nt5ytm4oFPoi86lKMVDDug5fVh61rdDLH7pIZeyyLH/fHF4mNN2FYa6LG8sp5zib3KAw==" length="8511862" type="application/octet-stream"/>
     </item>
   </channel>
 </rss>
